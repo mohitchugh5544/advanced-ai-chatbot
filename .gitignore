@@ -1,0 +1,12 @@
+# Ignore Local ChromaDB Data folder
+chroma_storage/
+
+# Python caching and environment directories
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local system configuration
+.DS_Store
+Thumbs.db

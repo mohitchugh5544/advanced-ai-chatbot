@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+google-genai
+chromadb
+pydantic
+requests
